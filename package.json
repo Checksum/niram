@@ -1,0 +1,25 @@
+{
+  "name": "niram",
+  "version": "0.1.0",
+  "description": "Color utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Checksum/niram.git"
+  },
+  "keywords": [
+    "color"
+  ],
+  "author": "Srinath Sankar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Checksum/niram/issues"
+  },
+  "homepage": "https://github.com/Checksum/niram#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
